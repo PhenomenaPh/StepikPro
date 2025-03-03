@@ -19,5 +19,3 @@ if __name__ == "__main__":
     a, b = map(int, input().split())
     string = input()
     print(sum_of_numbers(a, b, string))
-
-fs
